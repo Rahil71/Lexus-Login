@@ -45,7 +45,7 @@ The Lexus Feedback Application is a web-based tool that allows customers to prov
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/lexus-feedback.git
+   git clone https://github.com/Rahil71/Lexus-Login.git
    cd lexus-feedback
    ```
 
