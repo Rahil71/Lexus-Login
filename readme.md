@@ -85,8 +85,6 @@ The Lexus Feedback Application is a web-based tool that allows customers to prov
 
 ## Screenshots
 
-### Feedback Form
-![Feedback Form](./static/feedback_form.png)
 
 ### Success Page
 ![Success Page](./static/success_page.png)
